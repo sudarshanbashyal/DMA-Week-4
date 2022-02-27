@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Activity Coding Challenge</string>
+    <string name="first_paragraph">
+        Spicy jalapeno bacon ipsum dolor amet boudin venison andouille filet mignon. Shankle salami ham hock sausage burgdoggen boudin landjaeger frankfurter t-bone, rump ribeye doner pork chop pastrami corned beef. Shankle meatloaf jowl, short loin tri-tip landjaeger pancetta pork. Beef ribs hamburger tri-tip, turkey tongue flank pig turducken filet mignon strip steak meatball bacon burgdoggen. Turducken ham hock flank corned beef.
+        <b />
+        <b />
+        <b />
+        Beef ribs leberkas pork chop frankfurter filet mignon. Beef ribs corned beef fatback strip steak chicken, spare ribs tenderloin tail ground round ham hock ribeye. Short loin turkey prosciutto frankfurter. Boudin capicola ribeye, sausage ground round jowl bacon corned beef biltong shank burgdoggen kielbasa jerky.
+        Spicy jalapeno bacon ipsum dolor amet boudin venison andouille filet mignon. Shankle salami ham hock sausage burgdoggen boudin landjaeger frankfurter t-bone, rump ribeye doner pork chop pastrami corned beef. Shankle meatloaf jowl, short loin tri-tip landjaeger pancetta pork. Beef ribs hamburger tri-tip, turkey tongue flank pig turducken filet mignon strip steak meatball bacon burgdoggen. Turducken ham hock flank corned beef.
+        <b />
+        <b />
+        <b />
+        Beef ribs leberkas pork chop frankfurter filet mignon. Beef ribs corned beef fatback strip steak chicken, spare ribs tenderloin tail ground round ham hock ribeye. Short loin turkey prosciutto frankfurter. Boudin capicola ribeye, sausage ground round jowl bacon corned beef biltong shank burgdoggen kielbasa jerky.
+    </string>
+
+    <string name="second_paragraph">
+        Pork loin tri-tip meatball leberkas picanha cow turducken andouille spare ribs. Tenderloin burgdoggen cow shoulder pork kevin. Short ribs capicola pancetta tongue, fatback andouille filet mignon turducken. Chicken flank cupim biltong pork chop, sirloin frankfurter drumstick t-bone venison. Beef leberkas salami ground round jowl ham hock cow bacon. Pork ham hock pork belly tri-tip, shank sausage pig shankle landjaeger beef doner fatback filet mignon salami. Drumstick strip steak pork belly jowl.
+        <b />
+        <b />
+        <b />
+        Burgdoggen cow beef pork, pancetta meatball pork belly boudin ham hock bresaola porchetta. Rump salami cow ribeye prosciutto. Picanha prosciutto sirloin kielbasa. Rump doner prosciutto kevin filet mignon sirloin ribeye ball tip pork chop capicola porchetta. Ham cupim drumstick boudin chislic flank tri-tip andouille doner ham hock shank chuck turducken t-bone.
+        Pork loin tri-tip meatball leberkas picanha cow turducken andouille spare ribs. Tenderloin burgdoggen cow shoulder pork kevin. Short ribs capicola pancetta tongue, fatback andouille filet mignon turducken. Chicken flank cupim biltong pork chop, sirloin frankfurter drumstick t-bone venison. Beef leberkas salami ground round jowl ham hock cow bacon. Pork ham hock pork belly tri-tip, shank sausage pig shankle landjaeger beef doner fatback filet mignon salami. Drumstick strip steak pork belly jowl.
+        <b />
+        <b />
+        <b />
+        Burgdoggen cow beef pork, pancetta meatball pork belly boudin ham hock bresaola porchetta. Rump salami cow ribeye prosciutto. Picanha prosciutto sirloin kielbasa. Rump doner prosciutto kevin filet mignon sirloin ribeye ball tip pork chop capicola porchetta. Ham cupim drumstick boudin chislic flank tri-tip andouille doner ham hock shank chuck turducken t-bone.
+    </string>
+
+    <string name="third_paragraph">
+        Beef ribs buffalo frankfurter t-bone picanha hamburger drumstick ribeye shankle short ribs meatloaf pork chop. Leberkas ground round shank picanha chislic brisket andouille, spare ribs meatloaf ribeye tenderloin meatball hamburger. Jowl spare ribs t-bone alcatra rump turkey meatball, bacon short loin swine pancetta filet mignon flank. Tongue chicken turducken kielbasa, porchetta beef ribs meatloaf tenderloin capicola strip steak kevin flank salami.
+        <b />
+        <b />
+        <b />
+        Ball tip t-bone kielbasa leberkas, meatball hamburger strip steak jowl landjaeger. Pastrami turducken shoulder leberkas pork loin. Tongue fatback shank beef ribs jowl beef cupim landjaeger t-bone boudin. Frankfurter ground round chislic sirloin fatback beef ribs turducken filet mignon meatball, porchetta strip steak pork chop landjaeger pork belly shankle.
+        Beef ribs buffalo frankfurter t-bone picanha hamburger drumstick ribeye shankle short ribs meatloaf pork chop. Leberkas ground round shank picanha chislic brisket andouille, spare ribs meatloaf ribeye tenderloin meatball hamburger. Jowl spare ribs t-bone alcatra rump turkey meatball, bacon short loin swine pancetta filet mignon flank. Tongue chicken turducken kielbasa, porchetta beef ribs meatloaf tenderloin capicola strip steak kevin flank salami.
+        <b />
+        <b />
+        <b />
+        Ball tip t-bone kielbasa leberkas, meatball hamburger strip steak jowl landjaeger. Pastrami turducken shoulder leberkas pork loin. Tongue fatback shank beef ribs jowl beef cupim landjaeger t-bone boudin. Frankfurter ground round chislic sirloin fatback beef ribs turducken filet mignon meatball, porchetta strip steak pork chop landjaeger pork belly shankle.
+    </string>
+    <string name="text_one">Text One</string>
+    <string name="text_two">Text Two</string>
+    <string name="text_three">Text Three</string>
+</resources>
